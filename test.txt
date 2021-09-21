@@ -1,0 +1,1 @@
+Hola esto es un archivo txt donde estare escribiendo algo desde el bash
